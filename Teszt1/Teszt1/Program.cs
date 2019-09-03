@@ -16,6 +16,7 @@ namespace Teszt1
             String[] szovegek = new string[5];
             String[] szovegek2 = szovegek;
             String[] szovegek3 = {"Egy","Ketto","Három" };
+            String[] szovegek4 =new string[] { "Egy", "Ketto", "Három" };
 
             szovegek[0] = "TT";
             Console.WriteLine(szovegek[0]);
